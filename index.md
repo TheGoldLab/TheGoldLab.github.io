@@ -10,8 +10,11 @@ The [Projects](https://github.com/TheGoldLab/Projects) repository contains code 
 
 # Code related to ongoing projects
 ## Auditory change-point task
-- Code to run the experiment lives in [Audio_2AFC_ChangePoint_Task](https://github.com/TheGoldLab/Audio_2AFC_ChangePoint_Task)
+- Code to run the experiment lives in [Audio_2AFC_ChangePoint_Task](https://github.com/TheGoldLab/Audio_2AFC_ChangePoint_Task). This task uses [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox).
 - Code to run simulations and analyze the data lives in [Audio_2AFC_Analysis](https://github.com/TheGoldLab/Audio_2AFC_Analysis)
+
+## Single change-point dots-reversal task
+- Code to run the experiment lives in [SingleCP_DotsReversal_Task](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task). This task uses [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox).
 
 ## Databases of _random dots stimuli_ (Python 3)
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
