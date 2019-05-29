@@ -10,8 +10,8 @@ The [Projects](https://github.com/TheGoldLab/Projects) repository contains code 
 
 # Code related to ongoing projects
 ## Auditory change-point task
-- Code to run the experiment lives in [Audio_2AFC_ChangePoint_Task](https://github.com/TheGoldLab/Audio2AFC_ChangePoint_Task). This task uses [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox).
-- Code to run simulations and analyze the data lives in [Audio_2AFC_Analysis](https://github.com/TheGoldLab/Audio_2AFC_Analysis)
+- Code to run the experiment lives in [Task_Audio2AFC_ChangePoint](https://github.com/TheGoldLab/Task_Audio2AFC_ChangePoint). This task uses [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox).
+- Code to run simulations and analyze the data lives in [Analysis_Audio2AFC_ChangePoint](https://github.com/TheGoldLab/Analysis_Audio2AFC_ChangePoint) and its documentation is accessible [here](https://thegoldlab.github.io/Analysis_Audio2AFC_ChangePoint/index.html).
 
 ## Single change-point dots-reversal task
 - Code to run the experiment lives in [Task_SingleCP_DotsReversal](https://github.com/TheGoldLab/Task_SingleCP_DotsReversal). This task uses [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox).
