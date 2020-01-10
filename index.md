@@ -21,10 +21,10 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
 
 # _snow-dots_ toolbox (MATLAB)
-The repository [Lab-Matlab-Control](https://github.com/TheGoldLab/Lab-Matlab-Control), which we have come to call _snow-dots_ in our lab, contains the core MATLAB functions that we use to run our Psychophysical experiments. Since this code requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). It is in fact listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
+The repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control), which we have come to call _snow-dots_ in our lab, contains the core MATLAB functions that we use to run our Psychophysical experiments. Since this code requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). It is in fact listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
 
 # Repositories not listed above
-- [Lab-Matlab-Utilities](https://github.com/TheGoldLab/Lab-Matlab-Control): mainly used as a dependency of Lab-Matlab-Control. It is listed in the [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry).
+- [Lab_Matlab_Utilities](https://github.com/TheGoldLab/Lab_Matlab_Utilities): mainly used as a dependency of Lab-Matlab-Control. It is listed in the [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry).
 - [dotsStimExperiments](https://github.com/TheGoldLab/dotsStimExperiments): this is a deprecated repository created to run a few tests on our random dots stimuli.
 - [Tutorials](https://github.com/TheGoldLab/Tutorials): Small collection of `pdf` files containing tutorials on various topics.
 - [Dots-Reversal-Task-MT](https://github.com/TheGoldLab/Dots-Reversal-Task-MT): _description to come_
