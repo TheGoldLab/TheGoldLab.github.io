@@ -1,0 +1,4 @@
+<map id="EncounterBattleTimer" name="EncounterBattleTimer">
+<area shape="rect" id="node1" title="Timer class to help schedule events in the &quot;Encounter&quot; demo game." alt="" coords="5,86,168,117"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="55,6,117,37"/>
+</map>

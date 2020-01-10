@@ -1,0 +1,7 @@
+<map id="topsTreePanel" name="topsTreePanel">
+<area shape="rect" id="node1" title=" " alt="" coords="102,161,209,189"/>
+<area shape="rect" id="node4" href="$classtops_drill_down_panel.html" title=" " alt="" coords="4,238,141,266"/>
+<area shape="rect" id="node5" href="$classtops_runnables_panel.html" title=" " alt="" coords="166,238,311,266"/>
+<area shape="rect" id="node2" href="$classtops_panel.html" title=" " alt="" coords="116,83,196,111"/>
+<area shape="rect" id="node3" href="$classhandle.html" title=" " alt="" coords="125,6,187,34"/>
+</map>

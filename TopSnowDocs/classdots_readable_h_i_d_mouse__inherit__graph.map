@@ -1,0 +1,6 @@
+<map id="dotsReadableHIDMouse" name="dotsReadableHIDMouse">
+<area shape="rect" id="node1" title="Reads data from a HID mouse device." alt="" coords="5,238,171,266"/>
+<area shape="rect" id="node2" href="$classdots_readable_h_i_d.html" title="Superclass for objects that read data from Human Interface Devices." alt="" coords="25,161,151,189"/>
+<area shape="rect" id="node3" href="$classdots_readable.html" title="Superclass for objects that read data." alt="" coords="36,83,139,111"/>
+<area shape="rect" id="node4" href="$classhandle.html" title=" " alt="" coords="57,6,119,34"/>
+</map>

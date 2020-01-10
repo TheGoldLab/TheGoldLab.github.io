@@ -1,0 +1,17 @@
+<map id="dotsReadable" name="dotsReadable">
+<area shape="rect" id="node1" title="Superclass for objects that read data." alt="" coords="115,110,218,138"/>
+<area shape="rect" id="node3" href="$classdots_readable_dummy.html" title=" " alt="" coords="287,31,436,59"/>
+<area shape="rect" id="node4" href="$classdots_readable_dynamometer.html" title=" " alt="" coords="268,83,455,111"/>
+<area shape="rect" id="node5" href="$classdots_readable_eye.html" title="Superclass for objects that read data from an eye tracker." alt="" coords="298,135,425,163"/>
+<area shape="rect" id="node11" href="$classdots_readable_h_i_d.html" title="Superclass for objects that read data from Human Interface Devices." alt="" coords="298,290,425,318"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="5,110,67,138"/>
+<area shape="rect" id="node6" href="$classdots_readable_eye_a_s_l.html" title="Reads ASL/serial port gaze and pupil size data." alt="" coords="540,5,692,33"/>
+<area shape="rect" id="node7" href="$classdots_readable_eye_e_o_g.html" title=" " alt="" coords="538,57,694,85"/>
+<area shape="rect" id="node8" href="$classdots_readable_eye_eyelink.html" title="Reads Eyelink gaze and pupil size data." alt="" coords="531,109,701,137"/>
+<area shape="rect" id="node9" href="$classdots_readable_eye_mouse_simulator.html" title=" " alt="" coords="505,161,727,189"/>
+<area shape="rect" id="node10" href="$classdots_readable_spike2.html" title=" " alt="" coords="544,213,688,241"/>
+<area shape="rect" id="node12" href="$classdots_readable_h_i_d_gamepad.html" title="Reads data from a HID gamepad device." alt="" coords="523,265,709,293"/>
+<area shape="rect" id="node13" href="$classdots_readable_h_i_d_keyboard.html" title="Reads data from a HID keyboard device." alt="" coords="524,317,708,345"/>
+<area shape="rect" id="node15" href="$classdots_readable_h_i_d_mouse.html" title="Reads data from a HID mouse device." alt="" coords="533,369,699,397"/>
+<area shape="rect" id="node14" href="$classdots_readable_h_i_d_buttons.html" title=" " alt="" coords="777,317,949,345"/>
+</map>

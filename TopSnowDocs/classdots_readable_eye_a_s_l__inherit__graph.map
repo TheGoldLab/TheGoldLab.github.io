@@ -1,0 +1,6 @@
+<map id="dotsReadableEyeASL" name="dotsReadableEyeASL">
+<area shape="rect" id="node1" title="Reads ASL/serial port gaze and pupil size data." alt="" coords="4,238,155,266"/>
+<area shape="rect" id="node2" href="$classdots_readable_eye.html" title="Superclass for objects that read data from an eye tracker." alt="" coords="17,161,143,189"/>
+<area shape="rect" id="node3" href="$classdots_readable.html" title="Superclass for objects that read data." alt="" coords="28,83,131,111"/>
+<area shape="rect" id="node4" href="$classhandle.html" title=" " alt="" coords="49,6,111,34"/>
+</map>

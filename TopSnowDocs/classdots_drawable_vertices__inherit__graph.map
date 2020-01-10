@@ -1,0 +1,11 @@
+<map id="dotsDrawableVertices" name="dotsDrawableVertices">
+<area shape="rect" id="node1" title="Draw OpenGL vertices as arbitrary shapes, using buffer objects." alt="" coords="268,147,418,175"/>
+<area shape="rect" id="node4" href="$classdots_drawable_arcs.html" title="Draw one or multiple arcs at once." alt="" coords="498,5,627,33"/>
+<area shape="rect" id="node5" href="$classdots_drawable_dot_kinetogram.html" title="Animate random dots that carry a motion signal." alt="" coords="467,57,659,85"/>
+<area shape="rect" id="node6" href="$classdots_drawable_dot_kinetogram_debug.html" title=" " alt="" coords="467,109,659,153"/>
+<area shape="rect" id="node7" href="$classdots_drawable_explosion.html" title="Animate an explosion of many particles." alt="" coords="482,177,643,205"/>
+<area shape="rect" id="node8" href="$classdots_drawable_lines.html" title="Draw one or multiple lines at once." alt="" coords="495,229,630,257"/>
+<area shape="rect" id="node9" href="$classdots_drawable_targets.html" title="Draw one or multiple polygon target at once." alt="" coords="489,281,636,309"/>
+<area shape="rect" id="node2" href="$classdots_drawable.html" title="Superclass for drawable graphics objects." alt="" coords="115,147,218,175"/>
+<area shape="rect" id="node3" href="$classhandle.html" title=" " alt="" coords="5,147,67,175"/>
+</map>

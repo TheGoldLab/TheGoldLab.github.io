@@ -1,0 +1,15 @@
+<map id="dotsDrawable" name="dotsDrawable">
+<area shape="rect" id="node1" title="Superclass for drawable graphics objects." alt="" coords="115,83,218,111"/>
+<area shape="rect" id="node3" href="$classdots_drawable_animator.html" title="Update properties or methods of dotsDrawable objects, over time." alt="" coords="267,5,423,33"/>
+<area shape="rect" id="node4" href="$classdots_drawable_text.html" title="Display a string graphically." alt="" coords="282,57,409,85"/>
+<area shape="rect" id="node5" href="$classdots_drawable_textures.html" title="Make and draw OpenGL textures." alt="" coords="269,109,422,137"/>
+<area shape="rect" id="node7" href="$classdots_drawable_vertices.html" title="Draw OpenGL vertices as arbitrary shapes, using buffer objects." alt="" coords="270,217,420,245"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="5,83,67,111"/>
+<area shape="rect" id="node6" href="$classdots_drawable_images.html" title="Draw images from files." alt="" coords="495,53,641,81"/>
+<area shape="rect" id="node8" href="$classdots_drawable_arcs.html" title="Draw one or multiple arcs at once." alt="" coords="503,105,633,133"/>
+<area shape="rect" id="node9" href="$classdots_drawable_dot_kinetogram.html" title="Animate random dots that carry a motion signal." alt="" coords="472,157,664,185"/>
+<area shape="rect" id="node10" href="$classdots_drawable_dot_kinetogram_debug.html" title=" " alt="" coords="472,209,664,253"/>
+<area shape="rect" id="node11" href="$classdots_drawable_explosion.html" title="Animate an explosion of many particles." alt="" coords="488,277,648,305"/>
+<area shape="rect" id="node12" href="$classdots_drawable_lines.html" title="Draw one or multiple lines at once." alt="" coords="501,329,635,357"/>
+<area shape="rect" id="node13" href="$classdots_drawable_targets.html" title="Draw one or multiple polygon target at once." alt="" coords="495,381,641,409"/>
+</map>

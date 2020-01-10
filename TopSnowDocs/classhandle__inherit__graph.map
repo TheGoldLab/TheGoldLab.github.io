@@ -1,0 +1,93 @@
+<map id="handle" name="handle">
+<area shape="rect" id="node1" title=" " alt="" coords="5,707,67,735"/>
+<area shape="rect" id="node2" href="$class_a_in_scan1208_f_s.html" title="Implement analog input scans with mexHID() and the 1208FS USB device." alt="" coords="137,31,255,59"/>
+<area shape="rect" id="node3" href="$class_data_grapher.html" title="A Matlab interface for the GraphViz graphing tool." alt="" coords="147,83,245,111"/>
+<area shape="rect" id="node4" href="$classdots_all_d_out_objects.html" title="An abstract interface for doing digital outputs." alt="" coords="127,135,265,163"/>
+<area shape="rect" id="node6" href="$classdots_all_singleton_objects.html" title="Abstract superclass defining interface for singleton classes." alt="" coords="115,187,277,215"/>
+<area shape="rect" id="node10" href="$classdots_all_socket_objects.html" title="An abstract interface for working with sockets." alt="" coords="122,265,270,293"/>
+<area shape="rect" id="node13" href="$classdots_drawable.html" title="Superclass for drawable graphics objects." alt="" coords="145,421,247,449"/>
+<area shape="rect" id="node25" href="$classdots_ensemble_server.html" title="Mirrors dotsClientEnsemble objects from another instance of Matlab." alt="" coords="123,551,269,579"/>
+<area shape="rect" id="node26" href="$classdots_mgl_flush_gauge.html" title=" " alt="" coords="126,603,266,631"/>
+<area shape="rect" id="node27" href="$classdots_playable.html" title="Superclass for objects that play sounds and are managed by dotsThePlayablesManager." alt="" coords="147,655,245,683"/>
+<area shape="rect" id="node32" href="$classdots_readable.html" title="Superclass for objects that read data." alt="" coords="144,707,248,735"/>
+<area shape="rect" id="node46" href="$classdots_writable.html" title="Superclass for objects that write data." alt="" coords="148,759,244,787"/>
+<area shape="rect" id="node54" href="$classmex_h_i_d_usage.html" title="Look up names and values for working with Human Interface Devices." alt="" coords="142,811,250,839"/>
+<area shape="rect" id="node55" href="$class_object_grapher.html" title="Graphs references among objects with the Graphviz tool." alt="" coords="142,863,250,891"/>
+<area shape="rect" id="node56" href="$classoptical_serial.html" title=" " alt="" coords="149,915,243,943"/>
+<area shape="rect" id="node57" href="$class_profiler_grapher.html" title="Graphs output from the Matlab profiler with the Graphviz tool." alt="" coords="140,967,252,995"/>
+<area shape="rect" id="node58" href="$class_state_diagram_grapher.html" title="Make topsStateMachine state diagrams with the Graphviz tool." alt="" coords="120,1019,272,1047"/>
+<area shape="rect" id="node59" href="$classtops_figure.html" title=" " alt="" coords="154,1071,238,1099"/>
+<area shape="rect" id="node60" href="$classtops_foundation.html" title="Superclass for all of the fundamental Tower of Psych classes." alt="" coords="139,1265,253,1293"/>
+<area shape="rect" id="node84" href="$classtops_panel.html" title=" " alt="" coords="156,1694,236,1722"/>
+<area shape="rect" id="node5" href="$classdots_d_out1208_f_s.html" title="Implement digital outputs using mexHID() and the 1208FS USB device." alt="" coords="363,5,488,33"/>
+<area shape="rect" id="node7" href="$classdots_the_machine_configuration.html" title="Singleton to organize machine&#45;specific defaults." alt="" coords="326,57,525,85"/>
+<area shape="rect" id="node8" href="$classdots_the_messenger.html" title="Singleton to handle socket communications." alt="" coords="358,109,493,137"/>
+<area shape="rect" id="node9" href="$classdots_the_screen.html" title="Singleton to work with the OpenGL drawing context." alt="" coords="369,161,481,189"/>
+<area shape="rect" id="node11" href="$classdots_socket_mex_u_d_p.html" title="Implement socket behavior using the mexUDP mex function, which is a part of Snow Dots." alt="" coords="355,213,496,241"/>
+<area shape="rect" id="node12" href="$classdots_socket_pnet.html" title="Implement socket behavior using the pnet mex function." alt="" coords="368,265,483,293"/>
+<area shape="rect" id="node14" href="$classdots_drawable_animator.html" title="Update properties or methods of dotsDrawable objects, over time." alt="" coords="347,317,503,345"/>
+<area shape="rect" id="node15" href="$classdots_drawable_text.html" title="Display a string graphically." alt="" coords="362,369,489,397"/>
+<area shape="rect" id="node16" href="$classdots_drawable_textures.html" title="Make and draw OpenGL textures." alt="" coords="349,421,502,449"/>
+<area shape="rect" id="node18" href="$classdots_drawable_vertices.html" title="Draw OpenGL vertices as arbitrary shapes, using buffer objects." alt="" coords="350,473,500,501"/>
+<area shape="rect" id="node17" href="$classdots_drawable_images.html" title="Draw images from files." alt="" coords="612,249,759,277"/>
+<area shape="rect" id="node19" href="$classdots_drawable_arcs.html" title="Draw one or multiple arcs at once." alt="" coords="621,301,750,329"/>
+<area shape="rect" id="node20" href="$classdots_drawable_dot_kinetogram.html" title="Animate random dots that carry a motion signal." alt="" coords="589,353,781,381"/>
+<area shape="rect" id="node21" href="$classdots_drawable_dot_kinetogram_debug.html" title=" " alt="" coords="589,405,781,449"/>
+<area shape="rect" id="node22" href="$classdots_drawable_explosion.html" title="Animate an explosion of many particles." alt="" coords="605,473,766,501"/>
+<area shape="rect" id="node23" href="$classdots_drawable_lines.html" title="Draw one or multiple lines at once." alt="" coords="618,525,753,553"/>
+<area shape="rect" id="node24" href="$classdots_drawable_targets.html" title="Draw one or multiple polygon target at once." alt="" coords="612,577,759,605"/>
+<area shape="rect" id="node28" href="$classdots_playable_fast_tone.html" title="Play a pure sinusoudal tone, quickly." alt="" coords="349,525,502,553"/>
+<area shape="rect" id="node29" href="$classdots_playable_file.html" title="Play a sound from a .wav or .mp3 file." alt="" coords="366,577,485,605"/>
+<area shape="rect" id="node30" href="$classdots_playable_note.html" title=" " alt="" coords="362,629,488,657"/>
+<area shape="rect" id="node31" href="$classdots_playable_tone.html" title="Play a pure sinusoudal tone." alt="" coords="362,681,489,709"/>
+<area shape="rect" id="node33" href="$classdots_readable_dummy.html" title=" " alt="" coords="351,733,500,761"/>
+<area shape="rect" id="node34" href="$classdots_readable_dynamometer.html" title=" " alt="" coords="332,785,519,813"/>
+<area shape="rect" id="node35" href="$classdots_readable_eye.html" title="Superclass for objects that read data from an eye tracker." alt="" coords="362,837,489,865"/>
+<area shape="rect" id="node41" href="$classdots_readable_h_i_d.html" title="Superclass for objects that read data from Human Interface Devices." alt="" coords="362,915,489,943"/>
+<area shape="rect" id="node36" href="$classdots_readable_eye_a_s_l.html" title="Reads ASL/serial port gaze and pupil size data." alt="" coords="609,629,761,657"/>
+<area shape="rect" id="node37" href="$classdots_readable_eye_e_o_g.html" title=" " alt="" coords="607,681,763,709"/>
+<area shape="rect" id="node38" href="$classdots_readable_eye_eyelink.html" title="Reads Eyelink gaze and pupil size data." alt="" coords="601,733,770,761"/>
+<area shape="rect" id="node39" href="$classdots_readable_eye_mouse_simulator.html" title=" " alt="" coords="574,785,797,813"/>
+<area shape="rect" id="node40" href="$classdots_readable_spike2.html" title=" " alt="" coords="613,837,758,865"/>
+<area shape="rect" id="node42" href="$classdots_readable_h_i_d_gamepad.html" title="Reads data from a HID gamepad device." alt="" coords="593,889,778,917"/>
+<area shape="rect" id="node43" href="$classdots_readable_h_i_d_keyboard.html" title="Reads data from a HID keyboard device." alt="" coords="594,941,777,969"/>
+<area shape="rect" id="node45" href="$classdots_readable_h_i_d_mouse.html" title="Reads data from a HID mouse device." alt="" coords="602,993,769,1021"/>
+<area shape="rect" id="node44" href="$classdots_readable_h_i_d_buttons.html" title=" " alt="" coords="862,941,1034,969"/>
+<area shape="rect" id="node47" href="$classdots_writable_d_out.html" title="Superclass for objects that write data as digital output." alt="" coords="362,1065,488,1093"/>
+<area shape="rect" id="node52" href="$classdots_writable_l_e_ds.html" title=" " alt="" coords="361,1142,489,1170"/>
+<area shape="rect" id="node48" href="$classdots_writable_d_out1208_f_s.html" title=" " alt="" coords="599,1045,772,1073"/>
+<area shape="rect" id="node49" href="$classdots_writable_d_out_arduino.html" title=" " alt="" coords="599,1097,771,1125"/>
+<area shape="rect" id="node51" href="$classdots_writable_d_out_lab_jack.html" title="Implement digital outputs using the LabJack device and its libraries." alt="" coords="597,1149,773,1177"/>
+<area shape="rect" id="node50" href="$classdots_writable_d_out_arduino_l_e_ds.html" title=" " alt="" coords="846,1097,1050,1125"/>
+<area shape="rect" id="node53" href="$classdots_writable_l_e_ds_arduino.html" title=" " alt="" coords="598,1201,772,1229"/>
+<area shape="rect" id="node61" href="$classtops_classification.html" title="Represents data as points in space, for classification." alt="" coords="363,1213,488,1241"/>
+<area shape="rect" id="node62" href="$classtops_grouped_list.html" title="A structured container for values and objects." alt="" coords="366,1265,485,1293"/>
+<area shape="rect" id="node64" href="$classtops_runnable.html" title="Superclass for flow&#45;control classes." alt="" coords="374,1337,477,1365"/>
+<area shape="rect" id="node76" href="$classtops_task_helper.html" title=" " alt="" coords="369,1565,482,1593"/>
+<area shape="rect" id="node63" href="$classtops_data_log.html" title="One central place to log data on the fly." alt="" coords="637,1253,734,1281"/>
+<area shape="rect" id="node65" href="$classtops_concurrent.html" title="Superclass for flow&#45;control classes that may operate concurrently." alt="" coords="629,1305,742,1333"/>
+<area shape="rect" id="node70" href="$classtops_conditions.html" title="Traverses combinations of conditions and assigns them to objects." alt="" coords="631,1357,740,1385"/>
+<area shape="rect" id="node71" href="$classtops_runnable_composite.html" title="Superclass for objects that run just by running other objects." alt="" coords="602,1409,769,1437"/>
+<area shape="rect" id="node66" href="$classtops_call_list.html" title="A list of functions to call sequentially, as a batch." alt="" coords="903,1266,993,1294"/>
+<area shape="rect" id="node69" href="$classtops_state_machine.html" title="A state machine for controlling flow through predefined states." alt="" coords="884,1318,1012,1346"/>
+<area shape="rect" id="node67" href="$classtops_ensemble.html" title="Aggregate objects into an ensemble for batch opertaions." alt="" coords="1126,1266,1232,1294"/>
+<area shape="rect" id="node68" href="$classdots_client_ensemble.html" title="Aggregate objects into an ensemble for remote batch opertaions." alt="" coords="1307,1266,1447,1294"/>
+<area shape="rect" id="node72" href="$classtops_concurrent_composite.html" title="Composes topsConcurrent objects and runs them concurrently." alt="" coords="860,1395,1036,1423"/>
+<area shape="rect" id="node73" href="$classtops_tree_node.html" title="A tree&#45;like way to organize an experiment." alt="" coords="895,1447,1001,1475"/>
+<area shape="rect" id="node74" href="$classtops_tree_node_task.html" title=" " alt="" coords="1112,1421,1245,1449"/>
+<area shape="rect" id="node75" href="$classtops_tree_node_top_node.html" title=" " alt="" coords="1099,1473,1258,1501"/>
+<area shape="rect" id="node77" href="$classtops_task_helper_drawable.html" title=" " alt="" coords="601,1461,770,1489"/>
+<area shape="rect" id="node78" href="$classtops_task_helper_message.html" title=" " alt="" coords="602,1513,769,1541"/>
+<area shape="rect" id="node79" href="$classtops_task_helper_playable.html" title=" " alt="" coords="603,1565,768,1593"/>
+<area shape="rect" id="node80" href="$classtops_task_helper_readable.html" title=" " alt="" coords="600,1617,770,1645"/>
+<area shape="rect" id="node81" href="$classtops_task_helper_screen_ensemble.html" title=" " alt="" coords="578,1669,793,1697"/>
+<area shape="rect" id="node82" href="$classtops_task_helper_targets.html" title=" " alt="" coords="607,1721,764,1749"/>
+<area shape="rect" id="node83" href="$classtops_task_helper_t_t_l.html" title=" " alt="" coords="617,1773,754,1801"/>
+<area shape="rect" id="node85" href="$classtops_data_log_panel.html" title=" " alt="" coords="360,1617,491,1645"/>
+<area shape="rect" id="node86" href="$classtops_grouped_list_panel.html" title=" " alt="" coords="349,1669,502,1697"/>
+<area shape="rect" id="node87" href="$classtops_info_panel.html" title=" " alt="" coords="374,1721,477,1749"/>
+<area shape="rect" id="node88" href="$classtops_table_panel.html" title=" " alt="" coords="369,1773,482,1801"/>
+<area shape="rect" id="node89" href="$classtops_tree_panel.html" title=" " alt="" coords="372,1825,479,1853"/>
+<area shape="rect" id="node90" href="$classtops_drill_down_panel.html" title=" " alt="" coords="616,1825,754,1853"/>
+<area shape="rect" id="node91" href="$classtops_runnables_panel.html" title=" " alt="" coords="613,1877,758,1905"/>
+</map>

@@ -1,0 +1,27 @@
+var classtops_data_log_panel =
+[
+    [ "topsDataLogPanel", "classtops_data_log_panel.html#a7d54fd30d5c9d30dcdf12ebbf8caca0c", null ],
+    [ "selectItem", "classtops_data_log_panel.html#a153672f09668e3c434497f760d95ba0d", null ],
+    [ "editGroupIsPlotted", "classtops_data_log_panel.html#a62cb05111dc16fcc87ccf6b2176c43a3", null ],
+    [ "setGroupIsPlotted", "classtops_data_log_panel.html#ae186830e79306b44e964741127674cd6", null ],
+    [ "setMatchingGroupIsPlotted", "classtops_data_log_panel.html#ae10c3df93c56156d3421c01fa2a455ce", null ],
+    [ "setTimeRange", "classtops_data_log_panel.html#a79895649f9d5619877b5061dfa7b5829", null ],
+    [ "initialize", "classtops_data_log_panel.html#a385392e20465b3db1a947d2cf6a41aba", null ],
+    [ "updateContents", "classtops_data_log_panel.html#a3e8a87a03af30c1119ee2abfde9e12ac", null ],
+    [ "groupIsPlotted", "classtops_data_log_panel.html#a1638a453b2fdab8ba579ff57b5ed8626", null ],
+    [ "timeRange", "classtops_data_log_panel.html#a168e307dcc6f54dad1b4130d18ff9047", null ],
+    [ "rasterAxes", "classtops_data_log_panel.html#a249151899e65b5f0caf0fad2e4cccdae", null ],
+    [ "rasterCursor", "classtops_data_log_panel.html#a568bd040256092e67c4afa7b1a5b2030", null ],
+    [ "groupTable", "classtops_data_log_panel.html#a400ed40fb4a2cc584137aff13e0a5419", null ],
+    [ "fullRangeButton", "classtops_data_log_panel.html#aa07b62272cea2b113b4ce10b533d7b85", null ],
+    [ "chooseRangeField", "classtops_data_log_panel.html#af8302be2d302c568773165b2d7ffaf10", null ],
+    [ "allGroupsButton", "classtops_data_log_panel.html#a592e6b8416e42ef64282205ca362f9c7", null ],
+    [ "noGroupsButton", "classtops_data_log_panel.html#ad6e065436f8ff0d8e93377ab49c7a2b2", null ],
+    [ "chooseGroupsField", "classtops_data_log_panel.html#a0ec80f3956595ee93b8576a87e6c89ea", null ],
+    [ "padding", "classtops_data_log_panel.html#a617e63465d49ca090d265e7030dd1296", null ],
+    [ "allGroupsButton", "classtops_data_log_panel.html#ad662c0622a8d4eee3d68d44ea50a2c5f", null ],
+    [ "chooseGroupsField", "classtops_data_log_panel.html#a636e858babb03deb70ae89c38df88e65", null ],
+    [ "fullRangeButton", "classtops_data_log_panel.html#a586926b2ed6d9afa41e11cbdd0ddd0e3", null ],
+    [ "chooseRangeField", "classtops_data_log_panel.html#ae1a76992fb7f0cdd556c05b3b086a5e8", null ],
+    [ "log", "classtops_data_log_panel.html#ab09a63eb35b270b5cdbead1983ebdccb", null ]
+];

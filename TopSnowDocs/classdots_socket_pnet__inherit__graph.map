@@ -1,0 +1,5 @@
+<map id="dotsSocketPnet" name="dotsSocketPnet">
+<area shape="rect" id="node1" title="Implement socket behavior using the pnet mex function." alt="" coords="21,161,136,189"/>
+<area shape="rect" id="node2" href="$classdots_all_socket_objects.html" title="An abstract interface for working with sockets." alt="" coords="5,83,152,111"/>
+<area shape="rect" id="node3" href="$classhandle.html" title=" " alt="" coords="48,6,109,34"/>
+</map>

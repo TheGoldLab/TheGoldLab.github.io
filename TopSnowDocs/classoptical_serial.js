@@ -1,0 +1,27 @@
+var classoptical_serial =
+[
+    [ "opticalSerial", "classoptical_serial.html#a5a1113dcd7d92c1b4c869a7981142452", null ],
+    [ "setMode", "classoptical_serial.html#ada21ec9b02e04b75e7684e00559fdea0", null ],
+    [ "getLuminance", "classoptical_serial.html#af31cf7cda732a880ac4f3602e9926dd1", null ],
+    [ "close", "classoptical_serial.html#a8ab79e14e24aa440dcd1d9e822eb1f1c", null ],
+    [ "serialObject", "classoptical_serial.html#a6c26a4f35ea890a24814940702d08d15", null ],
+    [ "portName", "classoptical_serial.html#adbfe0caee312caf1e732101eed0e2316", null ],
+    [ "defaultName", "classoptical_serial.html#adb12e8d2db340efae59610606639eb45", null ],
+    [ "ack", "classoptical_serial.html#acbcdb593581d101d6f17bf280db7a41b", null ],
+    [ "baudRate", "classoptical_serial.html#ac920714b8603782797ddcc0539194eaf", null ],
+    [ "dataBits", "classoptical_serial.html#aedabefd4af19bb64cf085cdeecb4575c", null ],
+    [ "stopBits", "classoptical_serial.html#a8974f1fe65adc01c450869747103d3e0", null ],
+    [ "timeout", "classoptical_serial.html#ad5d6bd49eacc081c0e0ea24abb250c1c", null ],
+    [ "productType", "classoptical_serial.html#ae45dd6202b0fa3d3130e9b09ae76eeee", null ],
+    [ "opticalSN", "classoptical_serial.html#a0124f798aeb96ef0576d594c976040f8", null ],
+    [ "firmwareVersion", "classoptical_serial.html#ae300d396d44fcaf1db30f454119c4c87", null ],
+    [ "vRef", "classoptical_serial.html#af871fac7f7791084e0c7763f05ea8624", null ],
+    [ "zCount", "classoptical_serial.html#a5eb0f6f70e6f395dd20053fde926c9f7", null ],
+    [ "rFeed", "classoptical_serial.html#abf3bd78df1dcafd42def28dd0b9cf731", null ],
+    [ "rGain", "classoptical_serial.html#ae254fcf19687beadaa601977ed14c5d8", null ],
+    [ "probeSN", "classoptical_serial.html#ae90f1121c2643e7d5fba6f29406eda6c", null ],
+    [ "kCal", "classoptical_serial.html#a5ea4758277c2d240d7f799fdbbf3694e", null ],
+    [ "mode", "classoptical_serial.html#ac3e68f06561570172f7206e631bc1cc4", null ],
+    [ "lcDenom", "classoptical_serial.html#a2ba62ec9bfd8d6e02ae9e2740a6dcd31", null ],
+    [ "values", "classoptical_serial.html#ae55782c7925dee7ed8ae7dad9ca6ad79", null ]
+];

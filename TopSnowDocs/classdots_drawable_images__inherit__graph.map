@@ -1,0 +1,6 @@
+<map id="dotsDrawableImages" name="dotsDrawableImages">
+<area shape="rect" id="node1" title="Draw images from files." alt="" coords="8,238,153,266"/>
+<area shape="rect" id="node2" href="$classdots_drawable_textures.html" title="Make and draw OpenGL textures." alt="" coords="5,161,157,189"/>
+<area shape="rect" id="node3" href="$classdots_drawable.html" title="Superclass for drawable graphics objects." alt="" coords="30,83,132,111"/>
+<area shape="rect" id="node4" href="$classhandle.html" title=" " alt="" coords="51,6,112,34"/>
+</map>

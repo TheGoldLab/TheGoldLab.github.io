@@ -1,0 +1,11 @@
+<map id="topsPanel" name="topsPanel">
+<area shape="rect" id="node1" title=" " alt="" coords="349,83,429,111"/>
+<area shape="rect" id="node3" href="$classtops_data_log_panel.html" title=" " alt="" coords="5,161,136,189"/>
+<area shape="rect" id="node4" href="$classtops_grouped_list_panel.html" title=" " alt="" coords="161,161,313,189"/>
+<area shape="rect" id="node5" href="$classtops_info_panel.html" title=" " alt="" coords="338,161,440,189"/>
+<area shape="rect" id="node6" href="$classtops_table_panel.html" title=" " alt="" coords="465,161,577,189"/>
+<area shape="rect" id="node7" href="$classtops_tree_panel.html" title=" " alt="" coords="602,161,709,189"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="359,6,420,34"/>
+<area shape="rect" id="node8" href="$classtops_drill_down_panel.html" title=" " alt="" coords="504,238,641,266"/>
+<area shape="rect" id="node9" href="$classtops_runnables_panel.html" title=" " alt="" coords="666,238,811,266"/>
+</map>

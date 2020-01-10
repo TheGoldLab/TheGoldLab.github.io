@@ -1,0 +1,25 @@
+var classdots_readable_eye_eyelink =
+[
+    [ "dotsReadableEyeEyelink", "classdots_readable_eye_eyelink.html#a61bd623e9b02cb564739e665e5ac2c39", null ],
+    [ "getDeviceTime", "classdots_readable_eye_eyelink.html#a7c04ca4ce9824befda7e07f15d8fb33e", null ],
+    [ "readRawDataFromFile", "classdots_readable_eye_eyelink.html#a049bd72ce58562533899816ffe9889e8", null ],
+    [ "openDevice", "classdots_readable_eye_eyelink.html#aba00bb8f739c0ebd275337a2fc6b52f5", null ],
+    [ "closeDevice", "classdots_readable_eye_eyelink.html#ab72a3d4f16e7d63e37bf7909ba2d23ec", null ],
+    [ "calibrateNow", "classdots_readable_eye_eyelink.html#aab94d0a4bd137aaba74753bedc084e5c", null ],
+    [ "calibrateValidate", "classdots_readable_eye_eyelink.html#a26c922bc164dd9f3d745183d8ca56433", null ],
+    [ "driftCorrect", "classdots_readable_eye_eyelink.html#a96a087868489def3a86ba0f5ceeaeecb", null ],
+    [ "startRecording", "classdots_readable_eye_eyelink.html#a388d0e2e55be490424a0ab46e21ec825", null ],
+    [ "stopRecording", "classdots_readable_eye_eyelink.html#a5ac7d0dcc38c7025dea411a2451adec2", null ],
+    [ "readRawEyeData", "classdots_readable_eye_eyelink.html#a923747c417079077096d2dedcb2705f7", null ],
+    [ "transformRawData", "classdots_readable_eye_eyelink.html#ad06dcb39e83595e31db19d4a68b83f9d", null ],
+    [ "eyelinkIP", "classdots_readable_eye_eyelink.html#a00a0fb27b28f2ce2c33169c62acb3595", null ],
+    [ "defaultFilename", "classdots_readable_eye_eyelink.html#a0fc9e400d944a05d60f3d7053abca999", null ],
+    [ "waitForModeReadyTime", "classdots_readable_eye_eyelink.html#aedd63928c2f3c06025518b5af30579a6", null ],
+    [ "ELcalibration", "classdots_readable_eye_eyelink.html#a1d382ddf2824b0fc3271ba841fcefdd6", null ],
+    [ "trackedEye", "classdots_readable_eye_eyelink.html#a9b4980ea3d5446a03d9d2576e1a32f4d", null ],
+    [ "calibrationPlayables", "classdots_readable_eye_eyelink.html#a4e1cdd4ed55eb7a01878ead9aeb15ff3", null ],
+    [ "windowCtr", "classdots_readable_eye_eyelink.html#adf21e60a1bf618be64a598b8389266c6", null ],
+    [ "pixelsPerDegree", "classdots_readable_eye_eyelink.html#ab4fda334db53809e9a58776cd49f5698", null ],
+    [ "eyelinkVals", "classdots_readable_eye_eyelink.html#aaa59aedb9d73d95a5bf202c9a18e200b", null ],
+    [ "blankData", "classdots_readable_eye_eyelink.html#a2af6735bb893668e9e12fbd62f99b8c9", null ]
+];

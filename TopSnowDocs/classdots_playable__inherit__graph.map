@@ -1,0 +1,8 @@
+<map id="dotsPlayable" name="dotsPlayable">
+<area shape="rect" id="node1" title="Superclass for objects that play sounds and are managed by dotsThePlayablesManager." alt="" coords="266,83,363,111"/>
+<area shape="rect" id="node3" href="$classdots_playable_fast_tone.html" title="Play a pure sinusoudal tone, quickly." alt="" coords="5,161,157,189"/>
+<area shape="rect" id="node4" href="$classdots_playable_file.html" title="Play a sound from a .wav or .mp3 file." alt="" coords="182,161,300,189"/>
+<area shape="rect" id="node5" href="$classdots_playable_note.html" title=" " alt="" coords="325,161,451,189"/>
+<area shape="rect" id="node6" href="$classdots_playable_tone.html" title="Play a pure sinusoudal tone." alt="" coords="475,161,601,189"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="284,6,345,34"/>
+</map>

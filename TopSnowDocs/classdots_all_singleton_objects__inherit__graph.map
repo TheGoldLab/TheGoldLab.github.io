@@ -1,0 +1,8 @@
+<map id="dotsAllSingletonObjects" name="dotsAllSingletonObjects">
+<area shape="rect" id="node1" title="Abstract superclass defining interface for singleton classes." alt="" coords="215,83,376,111"/>
+<area shape="rect" id="node4" href="$classdots_the_machine_configuration.html" title="Singleton to organize machine&#45;specific defaults." alt="" coords="4,161,203,189"/>
+<area shape="rect" id="node5" href="$classdots_the_messenger.html" title="Singleton to handle socket communications." alt="" coords="228,161,363,189"/>
+<area shape="rect" id="node6" href="$classdots_the_screen.html" title="Singleton to work with the OpenGL drawing context." alt="" coords="388,161,499,189"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="223,6,284,34"/>
+<area shape="rect" id="node3" href="$class_set_get.html" title=" " alt="" coords="309,6,371,34"/>
+</map>

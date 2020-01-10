@@ -1,0 +1,5 @@
+<map id="dotsAllDOutObjects" name="dotsAllDOutObjects">
+<area shape="rect" id="node1" title="An abstract interface for doing digital outputs." alt="" coords="4,83,141,111"/>
+<area shape="rect" id="node3" href="$classdots_d_out1208_f_s.html" title="Implement digital outputs using mexHID() and the 1208FS USB device." alt="" coords="11,161,135,189"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="43,6,104,34"/>
+</map>

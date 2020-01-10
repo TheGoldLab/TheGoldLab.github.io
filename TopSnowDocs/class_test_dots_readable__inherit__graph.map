@@ -1,0 +1,12 @@
+<map id="TestDotsReadable" name="TestDotsReadable">
+<area shape="rect" id="node1" title=" " alt="" coords="289,87,426,118"/>
+<area shape="rect" id="node4" href="$class_test_dots_readable_dummy.html" title=" " alt="" coords="488,5,678,35"/>
+<area shape="rect" id="node5" href="$class_test_dots_readable_eye_a_s_l.html" title=" " alt="" coords="486,59,679,90"/>
+<area shape="rect" id="node6" href="$class_test_dots_readable_eye_dummy.html" title=" " alt="" coords="475,114,690,145"/>
+<area shape="rect" id="node7" href="$class_test_dots_readable_h_i_d.html" title=" " alt="" coords="500,169,666,199"/>
+<area shape="rect" id="node2" href="$classdots_test_case.html" title=" " alt="" coords="134,87,239,118"/>
+<area shape="rect" id="node3" href="$class_test_case.html" title=" " alt="" coords="6,87,85,118"/>
+<area shape="rect" id="node8" href="$class_test_dots_readable_h_i_d_gamepad.html" title=" " alt="" coords="740,114,967,145"/>
+<area shape="rect" id="node9" href="$class_test_dots_readable_h_i_d_keyboard.html" title=" " alt="" coords="739,169,968,199"/>
+<area shape="rect" id="node10" href="$class_test_dots_readable_h_i_d_mouse.html" title=" " alt="" coords="749,223,958,254"/>
+</map>

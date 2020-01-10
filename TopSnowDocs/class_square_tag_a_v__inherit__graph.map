@@ -1,0 +1,6 @@
+<map id="SquareTagAV" name="SquareTagAV">
+<area shape="rect" id="node1" title="Manage graphics and sound for the &quot;SquareTag&quot; task." alt="" coords="110,86,220,117"/>
+<area shape="rect" id="node3" href="$class_square_tag_a_v_plotter.html" title="Plot Square Tag graphics in Matlab axes." alt="" coords="5,166,157,197"/>
+<area shape="rect" id="node4" href="$class_square_tag_a_v_plus.html" title="Draw Square Tag graphics with OpenGL." alt="" coords="182,166,319,197"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="133,6,196,37"/>
+</map>

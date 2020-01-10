@@ -1,0 +1,25 @@
+var classdots_readable_dynamometer =
+[
+    [ "dotsReadableDynamometer", "classdots_readable_dynamometer.html#a2a133a87107570c8d2b7df95a2a9b783", null ],
+    [ "dotsReadableDynamometer", "classdots_readable_dynamometer.html#a2a133a87107570c8d2b7df95a2a9b783", null ],
+    [ "getBufferedData", "classdots_readable_dynamometer.html#a4c58119e72ea04cbf929be9e6abf4fbf", null ],
+    [ "openDevice", "classdots_readable_dynamometer.html#aba00bb8f739c0ebd275337a2fc6b52f5", null ],
+    [ "closeDevice", "classdots_readable_dynamometer.html#ab72a3d4f16e7d63e37bf7909ba2d23ec", null ],
+    [ "openComponents", "classdots_readable_dynamometer.html#aaf405b1122fd551ec4daa36d7dcdc689", null ],
+    [ "startRecording", "classdots_readable_dynamometer.html#a388d0e2e55be490424a0ab46e21ec825", null ],
+    [ "stopRecording", "classdots_readable_dynamometer.html#a5ac7d0dcc38c7025dea411a2451adec2", null ],
+    [ "readNewData", "classdots_readable_dynamometer.html#a38151b897eccabb4caca82a4a0ae5255", null ],
+    [ "openDevice", "classdots_readable_dynamometer.html#aba00bb8f739c0ebd275337a2fc6b52f5", null ],
+    [ "closeDevice", "classdots_readable_dynamometer.html#ab72a3d4f16e7d63e37bf7909ba2d23ec", null ],
+    [ "openComponents", "classdots_readable_dynamometer.html#aaf405b1122fd551ec4daa36d7dcdc689", null ],
+    [ "startRecording", "classdots_readable_dynamometer.html#a388d0e2e55be490424a0ab46e21ec825", null ],
+    [ "stopRecording", "classdots_readable_dynamometer.html#a5ac7d0dcc38c7025dea411a2451adec2", null ],
+    [ "getBufferedData", "classdots_readable_dynamometer.html#a4c58119e72ea04cbf929be9e6abf4fbf", null ],
+    [ "readNewData", "classdots_readable_dynamometer.html#a38151b897eccabb4caca82a4a0ae5255", null ],
+    [ "numSensors", "classdots_readable_dynamometer.html#a50f294ff9c6f559aa7b3925a88ce122f", null ],
+    [ "sampleRate", "classdots_readable_dynamometer.html#a5786a18d8e8dd775bb462ff6d8ed4f67", null ],
+    [ "eventLowValues", "classdots_readable_dynamometer.html#af06beeb1524eb04f24c852441737b676", null ],
+    [ "eventHighValues", "classdots_readable_dynamometer.html#a4714fe4b8c4bbf8bae9eb49e82945a5b", null ],
+    [ "dynamometers", "classdots_readable_dynamometer.html#adc391302ccca65044738a6361a4c04da", null ],
+    [ "blankData", "classdots_readable_dynamometer.html#a2af6735bb893668e9e12fbd62f99b8c9", null ]
+];

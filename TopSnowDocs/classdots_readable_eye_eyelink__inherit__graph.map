@@ -1,0 +1,6 @@
+<map id="dotsReadableEyeEyelink" name="dotsReadableEyeEyelink">
+<area shape="rect" id="node1" title="Reads Eyelink gaze and pupil size data." alt="" coords="5,238,173,266"/>
+<area shape="rect" id="node2" href="$classdots_readable_eye.html" title="Superclass for objects that read data from an eye tracker." alt="" coords="26,161,152,189"/>
+<area shape="rect" id="node3" href="$classdots_readable.html" title="Superclass for objects that read data." alt="" coords="38,83,140,111"/>
+<area shape="rect" id="node4" href="$classhandle.html" title=" " alt="" coords="59,6,120,34"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="dotsReadableHIDKeyboard" name="dotsReadableHIDKeyboard">
+<area shape="rect" id="node1" title="Reads data from a HID keyboard device." alt="" coords="4,238,187,266"/>
+<area shape="rect" id="node5" href="$classdots_readable_h_i_d_buttons.html" title=" " alt="" coords="10,315,181,343"/>
+<area shape="rect" id="node2" href="$classdots_readable_h_i_d.html" title="Superclass for objects that read data from Human Interface Devices." alt="" coords="33,161,159,189"/>
+<area shape="rect" id="node3" href="$classdots_readable.html" title="Superclass for objects that read data." alt="" coords="44,83,147,111"/>
+<area shape="rect" id="node4" href="$classhandle.html" title=" " alt="" coords="65,6,127,34"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TestDotsAllSocketObjects" name="TestDotsAllSocketObjects">
+<area shape="rect" id="node1" title=" " alt="" coords="95,86,285,117"/>
+<area shape="rect" id="node3" href="$class_test_dots_socket_mex_u_d_p.html" title="Include dotsSocketMexUDP in Snow Dots socket tests." alt="" coords="5,166,187,197"/>
+<area shape="rect" id="node4" href="$class_test_dots_socket_pnet.html" title="Include dotsSocketPnet in Snow Dots socket tests." alt="" coords="212,166,361,197"/>
+<area shape="rect" id="node2" href="$class_test_case.html" title=" " alt="" coords="151,6,229,37"/>
+</map>

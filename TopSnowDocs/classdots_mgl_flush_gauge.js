@@ -1,0 +1,26 @@
+var classdots_mgl_flush_gauge =
+[
+    [ "dotsMglFlushGauge", "classdots_mgl_flush_gauge.html#ad7ea72fb1364267d572740ac0dbbc075", null ],
+    [ "initialize", "classdots_mgl_flush_gauge.html#a205abff63b45630b9aa450aad98abf16", null ],
+    [ "flush", "classdots_mgl_flush_gauge.html#a7d98beb7acf1c54ea28cf98a36d13488", null ],
+    [ "flushWait", "classdots_mgl_flush_gauge.html#afcff9600a3692ca8b950ce2d4e0fd9c8", null ],
+    [ "blank", "classdots_mgl_flush_gauge.html#a09638970a63926429202d41fa4afa618", null ],
+    [ "currentFrame", "classdots_mgl_flush_gauge.html#a95a10fe59a5a1a19b7fe1b0672e92f85", null ],
+    [ "frameAtTime", "classdots_mgl_flush_gauge.html#a1b39f00fda5a7fc1d8f62125bb061164", null ],
+    [ "timeOfFrame", "classdots_mgl_flush_gauge.html#adb59e771175e6394d62df62ce27399d9", null ],
+    [ "initialFrameCount", "group__dots_utilities.html#ga75c0240e798ba07cadb0abc762e8a19c", null ],
+    [ "initialFrameMinimum", "classdots_mgl_flush_gauge.html#abaf07d4206982339d7e0bc1b9c239545", null ],
+    [ "initialFrameTolerance", "classdots_mgl_flush_gauge.html#af06e559eac663c0455b02a4a5a1f6a71", null ],
+    [ "initialFrameIntervals", "classdots_mgl_flush_gauge.html#a792ea5a7744034ecd4311eca9668fbc8", null ],
+    [ "initialFrameIsValid", "classdots_mgl_flush_gauge.html#ac17e1cea33a79f313e1a1a1d3a2117d4", null ],
+    [ "framePeriod", "classdots_mgl_flush_gauge.html#a803e9b17f0058d2dd11fca10db6d8ec9", null ],
+    [ "nominalFramePeriod", "classdots_mgl_flush_gauge.html#ac7b2b63378e6bc3c72a2c98a32c7fbac", null ],
+    [ "framePadding", "classdots_mgl_flush_gauge.html#aa0db024702e7ce553ef023c2eb603e46", null ],
+    [ "referenceFrameTime", "classdots_mgl_flush_gauge.html#adc5ec354aff5362d99626b1e1a6f09c6", null ],
+    [ "referenceFrame", "classdots_mgl_flush_gauge.html#a14ceaddc8f0e4a212533157f383ce0ad", null ],
+    [ "flushOnsetTime", "classdots_mgl_flush_gauge.html#a34e88032015ba7f08378348c45a28bee", null ],
+    [ "flushOnsetFrame", "classdots_mgl_flush_gauge.html#a23a93d5cddf7f2c5468df89fc57a33c8", null ],
+    [ "flushWasTight", "classdots_mgl_flush_gauge.html#a2f915d01dd1c4a020a4a1eac8653518a", null ],
+    [ "clockFunction", "classdots_mgl_flush_gauge.html#a18414c54c7ec4b757437956d8e2bfd3f", null ],
+    [ "waitFunction", "classdots_mgl_flush_gauge.html#a7afbdb19cdde947000ea88097b34c46d", null ]
+];

@@ -1,0 +1,5 @@
+<map id="dotsPlayableFastTone" name="dotsPlayableFastTone">
+<area shape="rect" id="node1" title="Play a pure sinusoudal tone, quickly." alt="" coords="5,161,157,189"/>
+<area shape="rect" id="node2" href="$classdots_playable.html" title="Superclass for objects that play sounds and are managed by dotsThePlayablesManager." alt="" coords="32,83,129,111"/>
+<area shape="rect" id="node3" href="$classhandle.html" title=" " alt="" coords="51,6,112,34"/>
+</map>

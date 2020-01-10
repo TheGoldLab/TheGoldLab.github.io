@@ -1,0 +1,6 @@
+<map id="dotsAllSocketObjects" name="dotsAllSocketObjects">
+<area shape="rect" id="node1" title="An abstract interface for working with sockets." alt="" coords="77,83,224,111"/>
+<area shape="rect" id="node3" href="$classdots_socket_mex_u_d_p.html" title="Implement socket behavior using the mexUDP mex function, which is a part of Snow Dots." alt="" coords="4,161,144,189"/>
+<area shape="rect" id="node4" href="$classdots_socket_pnet.html" title="Implement socket behavior using the pnet mex function." alt="" coords="169,161,284,189"/>
+<area shape="rect" id="node2" href="$classhandle.html" title=" " alt="" coords="120,6,181,34"/>
+</map>

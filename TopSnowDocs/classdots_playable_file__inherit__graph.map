@@ -1,0 +1,5 @@
+<map id="dotsPlayableFile" name="dotsPlayableFile">
+<area shape="rect" id="node1" title="Play a sound from a .wav or .mp3 file." alt="" coords="4,161,123,189"/>
+<area shape="rect" id="node2" href="$classdots_playable.html" title="Superclass for objects that play sounds and are managed by dotsThePlayablesManager." alt="" coords="15,83,112,111"/>
+<area shape="rect" id="node3" href="$classhandle.html" title=" " alt="" coords="33,6,95,34"/>
+</map>
