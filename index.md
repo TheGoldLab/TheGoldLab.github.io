@@ -24,7 +24,7 @@ The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently u
 # Code Tutorials
 We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo will help you in your quest to understanding our code.
 
-The Snow Dots and Tower of Psych full documentation can be found at [this website](https://thegoldlab.github.io/TopSnowDocs/index.html).
+The Snow Dots and Tower of Psych full documentation can be found at [this website](https://thegoldlab.github.io/SnowDotsDocumentation/index.md).
 
 ## _snow-dots_ toolbox (MATLAB)
 The repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control), which we have come to call _snow-dots_ in our lab, contains the core MATLAB functions that we use to run our Psychophysical experiments. Since this code requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). It is in fact listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
