@@ -22,7 +22,7 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
 
 # Code Tutorials
-Click (here)[https://thegoldlab.github.io/SnowDotsDocumentation/index.html] for broad documentation for SnowDots, Tower of Psych, and tutorials. 
+Click [here](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) for broad documentation for SnowDots, Tower of Psych, and tutorials. 
 
 We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo will help you in your quest to understanding our code. Here is a [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/tutorials_TOC.html).
 
