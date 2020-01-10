@@ -24,7 +24,7 @@ The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently u
 # Code Tutorials
 Click [here](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) for broad documentation for SnowDots, Tower of Psych, and tutorials. 
 
-We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo will help you in your quest to understanding our code. Here is a [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/tutorials_TOC.html).
+We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo will help you in your quest to understanding our code. Here is a [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/TutorialsDocs/tutorials_TOC.html).
 
 ## _snow-dots_ toolbox (MATLAB)
 The Snow Dots and Tower of Psych full documentation can be found at [this website](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html).
