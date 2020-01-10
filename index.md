@@ -1,4 +1,5 @@
-**Hello!** This page is meant to help you find your way through [TheGoldLab](https://github.com/TheGoldLab) GitHub organization.
+**Hello!**   
+This page is meant to help you find your way through [TheGoldLab](https://github.com/TheGoldLab) GitHub organization.
 This organization contains the public code from the [Gold Lab](https://www.med.upenn.edu/goldlab/).
 
 # Code related to publications
@@ -20,13 +21,15 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 ## Databases of _random dots stimuli_ (Python 3)
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
 
-# _snow-dots_ toolbox (MATLAB)
+# Code Tutorials
+We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo, together with its website(URL to come soon) will help you in your quest to understanding our code.
+
+## _snow-dots_ toolbox (MATLAB)
 The repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control), which we have come to call _snow-dots_ in our lab, contains the core MATLAB functions that we use to run our Psychophysical experiments. Since this code requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). It is in fact listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
 
 # Repositories not listed above
 - [Lab_Matlab_Utilities](https://github.com/TheGoldLab/Lab_Matlab_Utilities): mainly used as a dependency of Lab-Matlab-Control. It is listed in the [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry).
 - [dotsStimExperiments](https://github.com/TheGoldLab/dotsStimExperiments): this is a deprecated repository created to run a few tests on our random dots stimuli.
-- [Tutorials](https://github.com/TheGoldLab/Tutorials): Small collection of `pdf` files containing tutorials on various topics.
 - [Dots-Reversal-Task-MT](https://github.com/TheGoldLab/Dots-Reversal-Task-MT): _description to come_
 - [Oddball](https://github.com/TheGoldLab/Oddball): _description to come_
 - [test_repo](https://github.com/TheGoldLab/test_repo): deprecated repository used for tests about our GitHub organization.
