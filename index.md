@@ -22,7 +22,7 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
 
 # Data-collection utilities and tutorials
-Our in-house, Matlab-based utilities for controlling psychophysical experiments are found in the repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control) and typically referred to as _SnowDots_, 
+Our in-house, Matlab-based utilities for controlling psychophysical experiments are found in the repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control) and typically referred to collectively as _SnowDots_. 
 
 The available documentation is organized according to this [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) and includes[full, automatically generated documentation from the class definitions](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html) plus tutorials.
 
