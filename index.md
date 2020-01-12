@@ -24,7 +24,7 @@ The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently u
 # Data-collection utilities and tutorials
 Our in-house, Matlab-based utilities for controlling psychophysical experiments are found in the repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control) and typically referred to collectively as _SnowDots_. 
 
-The available documentation is organized according to this [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) and includes[full, automatically generated documentation from the class definitions](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html) plus tutorials.
+The available documentation for _SnowDots_ is organized according to this [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) and includes [full, automatically generated documentation from the class definitions](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html) plus tutorials.
 
 Because _SnowDots_ requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). _SnowDots_ is listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _SnowDots_ in this way.
 
