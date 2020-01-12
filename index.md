@@ -22,14 +22,11 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
 
 # Code Tutorials
-Click [here](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) for broad documentation for SnowDots, Tower of Psych, and tutorials. 
+Click [here](https://thegoldlab.github.io/SnowDotsDocumentation/index.html) for a web page showing the Table of Contents for  documentation of our in-house, Matlab-based utilities for controlling psychophysical experiments, which are found in the repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control) and we typically refer to as _SnowDots_. 
 
-We hope that the [Lab_Tutorials](https://github.com/TheGoldLab/Lab_Tutorials) repo will help you in your quest to understanding our code. Here is a [Table of Contents](https://thegoldlab.github.io/SnowDotsDocumentation/TutorialsDocs/tutorials_TOC.html).
+The documentation includes [full, automatically generated documentation from the class definitions](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html) plus tutorials.
 
-## _snow-dots_ toolbox (MATLAB)
-The Snow Dots and Tower of Psych full documentation can be found at [this website](https://thegoldlab.github.io/SnowDotsDocumentation/DoxyDocs/index.html).
-
-The repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control), which we have come to call _snow-dots_ in our lab, contains the core MATLAB functions that we use to run our Psychophysical experiments. Since this code requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox). It is in fact listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
+Because _SnowDots_ requires several other dependencies to run properly, it is most conveniently used with [ToolboxToolbox](https://github.com/ToolboxHub/ToolboxToolbox) and is listed in the public [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry). Click [here](https://github.com/TheGoldLab/SingleCP_DotsReversal_Task/tree/psychophys_tests) for an example task code that uses _snow-dots_ in this way.
 
 # Repositories not listed above
 - [Lab_Matlab_Utilities](https://github.com/TheGoldLab/Lab_Matlab_Utilities): mainly used as a dependency of Lab-Matlab-Control. It is listed in the [ToolboxRegistry](https://github.com/ToolboxHub/ToolboxRegistry).
