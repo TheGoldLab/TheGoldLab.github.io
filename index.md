@@ -19,7 +19,7 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 - Code to analyze data from experiment resides in [Analysis_SingleCP_DotsReversal](https://github.com/TheGoldLab/Analysis_SingleCP_DotsReversal). 
 
 ## Databases of _random dots stimuli_ (Python 3)
-The [dotsDB](https://github.com/TheGoldLab/dots_db) Python module is currently under development. Its goal is to provide a comprehensive API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli.
+The [dotsDB](https://github.com/TheGoldLab/Lab_DotsDB_Utilities) repo provides an API to create, edit and query from [HDF5](https://www.hdfgroup.org/solutions/hdf5/) databases containing our random dots stimuli. The 'v1.0' documentation is [here](https://scienceprojects.altervista.org/projects/dotsDB/index.html).
 
 # Data-collection utilities and tutorials
 Our in-house, Matlab-based utilities for controlling psychophysical experiments are found in the repository [Lab_Matlab_Control](https://github.com/TheGoldLab/Lab_Matlab_Control) and typically referred to collectively as _SnowDots_. 
