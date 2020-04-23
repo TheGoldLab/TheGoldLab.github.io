@@ -1,4 +1,4 @@
-**Hello!**   
+**Hello World!**   
 This page is meant to help you find your way through [TheGoldLab](https://github.com/TheGoldLab) GitHub organization.
 This organization contains the public code from the [Gold Lab](https://www.med.upenn.edu/goldlab/).
 
