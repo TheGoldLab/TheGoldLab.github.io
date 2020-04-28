@@ -1,6 +1,6 @@
 # Test Title
 ## Papers
-Upload all relevant [papers here](). Please tag relevant subjects (i.e. pupilometry, physiology)
+Upload all relevant [papers here](https://github.com/TheGoldLab/TheGoldLab.github.io/tree/master/Papers). Please tag relevant subjects (i.e. pupilometry, physiology)
 
 
 This is our new organization page
