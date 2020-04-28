@@ -3,4 +3,4 @@
 Use this folder to upload all relevant papers
 
 **Example:
-[Example Paper](insertLink.here)
+[Example Paper](insertLink.here) #tag #tag
