@@ -1,10 +1,7 @@
-# Test Title
+# Welcome Page
 ## Papers
 Upload all relevant [papers here](https://github.com/TheGoldLab/TheGoldLab.github.io/tree/master/Papers). Please tag relevant subjects (i.e. pupilometry, physiology)
 
-
-This is our new organization page
-**Hello World!**   
 This page is meant to help you find your way through [TheGoldLab](https://github.com/TheGoldLab) GitHub organization.
 This organization contains the public code from the [Gold Lab](https://www.med.upenn.edu/goldlab/).
 
@@ -16,4 +13,3 @@ The [Analysis_Archived](https://github.com/TheGoldLab/Analysis_Archived) reposit
 - [A bias–variance trade-off governs individual differences in on-line learning in an unpredictable environment](https://doi.org/10.1038/s41562-018-0297-4)
 
 # Code related to ongoing projects
-## Auditory change-point task
